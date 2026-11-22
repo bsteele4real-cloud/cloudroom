@@ -29,7 +29,7 @@
     "@cloudroom/config": "workspace:*",
     "@cloudroom/domain": "workspace:*",
     "better-sqlite3": "12.10.0",
-    "drizzle-orm": "^0.38.0"
+    "drizzle-orm": "^0.45.2"
   },
   "devDependencies": {
     "@cloudroom/tsconfig": "workspace:*",
