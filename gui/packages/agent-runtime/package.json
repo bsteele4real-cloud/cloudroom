@@ -26,7 +26,7 @@
     "@cloudroom/domain": "workspace:*",
     "@cloudroom/process-utils": "workspace:*",
     "@cloudroom/provider-bridge-protocol": "workspace:*",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudroom/plugin-build": "workspace:*",

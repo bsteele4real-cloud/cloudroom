@@ -51,7 +51,7 @@
   "dependencies": {
     "@cloudroom/shared-ui": "workspace:*",
     "monaco-editor": "^0.56.0",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudroom/plugin-build": "workspace:*",

@@ -20,9 +20,9 @@
     "@cloudroom/server": "workspace:*",
     "@cloudroom/server-contract": "workspace:*",
     "@cloudroom/test-helpers": "workspace:*",
-    "@hono/node-server": "^1.19.11",
-    "drizzle-orm": "^0.38.4",
-    "zod": "^4.3.6"
+    "@hono/node-server": "^2.1.6",
+    "drizzle-orm": "^0.45.2",
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudroom/tsconfig": "workspace:*",
