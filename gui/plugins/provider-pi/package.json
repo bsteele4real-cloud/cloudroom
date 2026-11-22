@@ -32,7 +32,7 @@
   "dependencies": {
     "@cloudroom/shared-ui": "workspace:*",
     "@get-bb/plugin-sdk": "workspace:*",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudroom/domain": "workspace:*",

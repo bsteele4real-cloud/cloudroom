@@ -18,7 +18,7 @@
   "dependencies": {
     "@cloudroom/domain": "workspace:*",
     "@cloudroom/server-contract": "workspace:*",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudroom/tsconfig": "workspace:*",
