@@ -35,8 +35,8 @@
     "@cloudroom/domain": "workspace:*",
     "@cloudroom/hono-typed-routes": "workspace:*",
     "@cloudroom/provider-bridge-protocol": "workspace:*",
-    "hono": "^4.7.0",
-    "zod": "^4.3.6"
+    "hono": "^4.13.16",
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudroom/test-helpers": "workspace:*",

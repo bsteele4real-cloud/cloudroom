@@ -33,7 +33,7 @@
     "@cloudroom/domain": "workspace:*",
     "@cloudroom/shared-ui": "workspace:*",
     "bb-environment-provider-host": "workspace:*",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudroom/plugin-build": "workspace:*",

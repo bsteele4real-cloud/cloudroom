@@ -22,7 +22,7 @@
     "@cloudroom/fuzzy-match": "workspace:*",
     "@cloudroom/server-contract": "workspace:*",
     "@cloudroom/thread-view": "workspace:*",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@cloudroom/test-helpers": "workspace:*",
